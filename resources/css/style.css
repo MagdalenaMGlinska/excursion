@@ -1,0 +1,41 @@
+html{
+  background-color:black;
+  font-family: Verdana, sans-serif;
+}
+
+h1 {
+  font-size: 50px;
+  color: White;
+  text-align: center;
+}
+
+.urls{
+  font-size: 16px;
+  color:aquamarine;
+  text-align:center;
+}
+
+.mockup {
+  text-align: center;
+}
+
+h2 {
+  color: white;
+  font-size: 42px;
+  text-align: center;
+}
+
+.description{
+  color: Gray;
+  text-align: center;
+  font-size: 21px;
+}
+
+.image {
+  text-align: center;
+}
+
+.footer{
+  text-align: right;
+  color: gray;
+}
